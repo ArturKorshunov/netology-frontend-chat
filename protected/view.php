@@ -22,7 +22,7 @@
                     <div class="chat__messages full-height">
                         <div class="chat-message chat-message_my">
                             <div class="chat-message__user">
-                                Вы
+                                Вы:
                             </div>
                             <div class="chat-message__text">
                                 Добрый день!
@@ -30,7 +30,7 @@
                         </div>
                         <div class="chat-message chat-message_user">
                             <div class="chat-message__user">
-                                user-4yafj3okvbo
+                                user-4yafj3okvbo:
                             </div>
                             <div class="chat-message__text">
                                 И вам!
